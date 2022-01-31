@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1477</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>1107</ColumnWidth1>
+        <ColumnWidth2>295</ColumnWidth2>
+        <ColumnWidth3>73</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>266</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <PreferedWindows>
+          <Position>2</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows/>
+        </PreferedWindows>
+        <ShowCodeCoverage>1</ShowCodeCoverage>
+        <ShowInstrProfiling>1</ShowInstrProfiling>
+        <col-names>
+          <item>Disassembly</item>
+          <item>_I0</item>
+        </col-names>
+        <col-widths>
+          <item>500</item>
+          <item>20</item>
+        </col-widths>
+        <DisasmHistory/>
+      </Disassembly>
+      <StaticWatch>
+        <expressions>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        <item>mode</item><item>t2</item><item>err_angle2</item><item>ref_encoder2</item><item>Encoder3</item><item>PWM_out</item><item>ref_angle2</item><item>cur_angle2</item><item>err_angle2</item><item>SKp_2</item><item>SKi_2</item><item>PKd_2</item><item>PN_2</item><item>SOp_2</item><item>SOi_2</item><item>POd_2</item><item>hold</item><item>cnt_speed</item><item>dead_margin</item><item>err_angle2</item><item>px</item><item>py</item><item>pz</item><item>PKp_2</item><item>PKi_2</item><item>CKp_2</item><item>CKi_2</item><item>Encoder5</item><item></item></expressions>
+        <col-names>
+          
+          
+          
+          
+        <item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+        <item>127</item><item>150</item><item>100</item><item>204</item></col-widths>
+      </StaticWatch>
+    </Static>
+    <Windows>
+      
+      
+      
+    <Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-7163-20230</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-6641-20240</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3><Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-17912-20233</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>6dof_control</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd4><Wnd5>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-26046-20286</Identity>
+            <TabName>Live Watch</TabName>
+            <Factory>StaticWatch</Factory>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd5></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Src\6dof-xel.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>1012</YPos2><SelStart2>27136</SelStart2><SelEnd2>27136</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Src\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>278</YPos2><SelStart2>7687</SelStart2><SelEnd2>7687</SelEnd2></Tab><ActiveTab>1</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Inc\6dof-xel.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>108</SelStart2><SelEnd2>108</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Src\round_function.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>17</YPos2><SelStart2>338</SelStart2><SelEnd2>338</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Inc\round_function.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>80</SelStart2><SelEnd2>80</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_adc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>1203</YPos2><SelStart2>47470</SelStart2><SelEnd2>47770</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-04C01A28><key>iaridepm.enu1</key></Toolbar-04C01A28></Sizes></Row0><Row1><Sizes><Toolbar-0C091C00><key>debuggergui.enu1</key></Toolbar-0C091C00></Sizes></Row1><Row2><Sizes><Toolbar-0C093050><key>armjlink.enu1</key></Toolbar-0C093050></Sizes></Row2></Top><Left><Row0><Sizes/></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>287</Bottom><Right>1570</Right><x>-2</x><y>-2</y><xscreen>1572</xscreen><yscreen>289</yscreen><sizeHorzCX>818750</sizeHorzCX><sizeHorzCY>289870</sizeHorzCY><sizeVertCX>293750</sizeVertCX><sizeVertCY>785356</sizeVertCY></Rect></Wnd5><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>904</Bottom><Right>219</Right><x>1568</x><y>-2</y><xscreen>354</xscreen><yscreen>289</yscreen><sizeHorzCX>184375</sizeHorzCX><sizeHorzCY>289870</sizeHorzCY><sizeVertCX>96354</sizeVertCX><sizeVertCY>635908</sizeVertCY></Rect></Wnd4></Sizes></Row0><Row1><Sizes><Wnd3><Rect><Top>285</Top><Left>-2</Left><Bottom>362</Bottom><Right>1922</Right><x>-2</x><y>285</y><xscreen>1924</xscreen><yscreen>77</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>77232</sizeHorzCY><sizeVertCX>185417</sizeVertCX><sizeVertCY>278837</sizeVertCY></Rect></Wnd3></Sizes></Row1></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

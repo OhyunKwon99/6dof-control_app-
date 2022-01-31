@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1365</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>1023</ColumnWidth1>
+        <ColumnWidth2>273</ColumnWidth2>
+        <ColumnWidth3>68</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>0</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <PreferedWindows>
+          <Position>2</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows/>
+        </PreferedWindows>
+        <ShowCodeCoverage>1</ShowCodeCoverage>
+        <ShowInstrProfiling>1</ShowInstrProfiling>
+        <col-names>
+          <item>Disassembly</item>
+          <item>_I0</item>
+        </col-names>
+        <col-widths>
+          <item>500</item>
+          <item>20</item>
+        </col-widths>
+        <DisasmHistory/>
+      </Disassembly>
+      <StaticWatch>
+        <expressions>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        <item>mode</item><item>px</item><item>py</item><item>pz</item><item>temp_1</item><item>temp_2</item><item>temp_3</item><item>temp_4</item><item>temp_5</item><item>temp_6</item><item>px_n</item><item>py_n</item><item>pz_n</item><item>move_cnt</item><item>cur_rpm2</item><item>t2</item><item>cur_angle2</item><item>err_angle2</item><item>ref_speed2</item><item>cur_rpm2</item><item>cur_speed2</item><item>Encoder3</item><item>Encoder5</item><item>r31</item><item>r11</item><item>r33</item><item>cnt_speed</item><item>d4</item><item>px_c</item><item>py_c</item><item>pz_c</item><item>a6</item><item>d6</item><item>Encoder3</item><item>Encoder5</item><item>theta</item><item>s_2t</item><item>d4</item><item>d6</item><item>theta</item><item>theta_ref1</item><item>theta_ref2</item><item>theta__ref3</item><item>hex_1_H</item><item>hex_1_L</item><item>low</item><item>mid</item><item>H</item><item>L</item><item>hex_1</item><item>hex_2_H</item><item>hex_2_L</item><item>hex_3_H</item><item>hex_3_L</item><item>hex_4_H</item><item>hex_4_L</item><item>bufftx</item><item>adcVal</item><item>mot_cur</item><item>filter</item><item>temp</item><item>cur_sum</item><item>mot_temp</item><item>PWM_out2</item><item></item></expressions>
+        <col-names>
+          
+          
+          
+          
+        <item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+        <item>122</item><item>150</item><item>100</item><item>317</item></col-widths>
+      </StaticWatch>
+    <Find-All-Declarations><ColumnWidth0>370</ColumnWidth0><ColumnWidth1>52</ColumnWidth1><ColumnWidth2>634</ColumnWidth2></Find-All-Declarations><Select-Ambiguous-Definitions><ColumnWidth0>370</ColumnWidth0><ColumnWidth1>52</ColumnWidth1><ColumnWidth2>634</ColumnWidth2></Select-Ambiguous-Definitions></Static>
+    <Windows>
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-24865-31681</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-24342-31691</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-815-24545</Identity><TabName>Declarations</TabName><Factory>Find-All-Declarations</Factory><Session/></Tab><Tab><Identity>TabID-32537-24565</Identity><TabName>Ambiguous Definitions</TabName><Factory>Select-Ambiguous-Definitions</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-2845-31685</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>6dof_arm</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-22251-31730</Identity>
+            <TabName>Live Watch</TabName>
+            <Factory>StaticWatch</Factory>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Src\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>249</YPos2><SelStart2>17633</SelStart2><SelEnd2>17633</SelEnd2></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Src\6dof-xel.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>739</YPos2><SelStart2>17762</SelStart2><SelEnd2>17762</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Inc\6dof-xel.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>108</SelStart2><SelEnd2>108</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Src\round_function.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>17</YPos2><SelStart2>338</SelStart2><SelEnd2>338</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Inc\round_function.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>80</SelStart2><SelEnd2>80</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_adc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>1203</YPos2><SelStart2>47470</SelStart2><SelEnd2>47770</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-063F4980><key>iaridepm.enu1</key></Toolbar-063F4980></Sizes></Row0><Row1><Sizes><Toolbar-139CEAC8><key>debuggergui.enu1</key></Toolbar-139CEAC8></Sizes></Row1><Row2><Sizes><Toolbar-139CD358><key>armjlink.enu1</key></Toolbar-139CD358></Sizes></Row2></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>1576</Bottom><Right>31</Right><x>-2</x><y>-2</y><xscreen>21</xscreen><yscreen>328</yscreen><sizeHorzCX>19444</sizeHorzCX><sizeHorzCY>178552</sizeHorzCY><sizeVertCX>19444</sizeVertCX><sizeVertCY>859009</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>1576</Bottom><Right>349</Right><x>-2</x><y>-2</y><xscreen>21</xscreen><yscreen>328</yscreen><sizeHorzCX>19444</sizeHorzCX><sizeHorzCY>178552</sizeHorzCY><sizeVertCX>325000</sizeVertCX><sizeVertCY>859009</sizeVertCY></Rect></Wnd2></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>168</Bottom><Right>1082</Right><x>-2</x><y>-2</y><xscreen>1084</xscreen><yscreen>170</yscreen><sizeHorzCX>1003704</sizeHorzCX><sizeHorzCY>92542</sizeHorzCY><sizeVertCX>19444</sizeVertCX><sizeVertCY>178552</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
